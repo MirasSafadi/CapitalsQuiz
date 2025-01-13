@@ -1,0 +1,2138 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "answers": [
+        "San Salvador",
+        "Kabul",
+        "Tbilisi",
+        "Nouakchott"
+      ],
+      "fun_fact": "Afghanistan is known as the 'graveyard of empires' due to its long history of repelling invasions, from Alexander the Great to modern superpowers.",
+      "correct_answer": "Kabul"
+    },
+    {
+      "name": "Albania",
+      "answers": [
+        "Amsterdam",
+        "Tirana",
+        "Accra",
+        "Khartoum"
+      ],
+      "fun_fact": "Albania is one of the few countries in the world where you'll find more Albanians living abroad than in the country itself.",
+      "correct_answer": "Tirana"
+    },
+    {
+      "name": "Algeria",
+      "answers": [
+        "Castries",
+        "Bern",
+        "Algiers",
+        "Islamabad"
+      ],
+      "fun_fact": "Algeria is the largest country in Africa and the 10th largest in the world, with much of its land covered by the Sahara Desert.",
+      "correct_answer": "Algiers"
+    },
+    {
+      "name": "Andorra",
+      "answers": [
+        "Moroni",
+        "Andorra la Vella",
+        "Monrovia",
+        "Santo Domingo"
+      ],
+      "fun_fact": "Andorra doesn't have its own army and relies on Spain and France for its defense.",
+      "correct_answer": "Andorra la Vella"
+    },
+    {
+      "name": "Angola",
+      "answers": [
+        "Windhoek",
+        "Vienna",
+        "Luanda",
+        "Nassau"
+      ],
+      "fun_fact": "Angola is home to the giant sable antelope, a rare species found nowhere else in the world and considered a national symbol.",
+      "correct_answer": "Luanda"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "answers": [
+        "Ngerulmud",
+        "Bridgetown",
+        "Sana'a",
+        "Saint John's"
+      ],
+      "fun_fact": "Antigua is known for having 365 beaches - one for every day of the year.",
+      "correct_answer": "Saint John's"
+    },
+    {
+      "name": "Argentina",
+      "answers": [
+        "Kabul",
+        "Malé",
+        "Caracas",
+        "Buenos Aires"
+      ],
+      "fun_fact": "Argentina is home to the tango, a dance and music genre that originated in Buenos Aires in the late 19th century.",
+      "correct_answer": "Buenos Aires"
+    },
+    {
+      "name": "Armenia",
+      "answers": [
+        "Tripoli",
+        "Funafuti",
+        "Monrovia",
+        "Yerevan"
+      ],
+      "fun_fact": "Armenia was the first country in the world to adopt Christianity as its official religion in 301 AD.",
+      "correct_answer": "Yerevan"
+    },
+    {
+      "name": "Australia",
+      "answers": [
+        "Canberra",
+        "Luanda",
+        "Zagreb",
+        "Rome"
+      ],
+      "fun_fact": "Australia is the only continent without an active volcano.",
+      "correct_answer": "Canberra"
+    },
+    {
+      "name": "Austria",
+      "answers": [
+        "Vienna",
+        "Muscat",
+        "Tokyo",
+        "Luxembourg City"
+      ],
+      "fun_fact": "Austria is the birthplace of many famous classical composers, including Wolfgang Amadeus Mozart and Franz Schubert.",
+      "correct_answer": "Vienna"
+    },
+    {
+      "name": "Azerbaijan",
+      "answers": [
+        "Addis Ababa",
+        "Conakry",
+        "Baku",
+        "Tallinn"
+      ],
+      "fun_fact": "Azerbaijan is home to Yanar Dag, or 'Burning Mountain', a natural gas fire that has been burning for centuries.",
+      "correct_answer": "Baku"
+    },
+    {
+      "name": "Bahamas",
+      "answers": [
+        "Nassau",
+        "Astana (Nur-Sultan)",
+        "Tunis",
+        "Wellington"
+      ],
+      "fun_fact": "The Bahamas is home to the world-famous swimming pigs found on Big Major Cay, also known as Pig Beach.",
+      "correct_answer": "Nassau"
+    },
+    {
+      "name": "Bahrain",
+      "answers": [
+        "Damascus",
+        "Palikir",
+        "Manama",
+        "Beijing"
+      ],
+      "fun_fact": "Bahrain is an archipelago of 33 islands and was known for its pearl diving industry for centuries.",
+      "correct_answer": "Manama"
+    },
+    {
+      "name": "Bangladesh",
+      "answers": [
+        "Phnom Penh",
+        "Belgrade",
+        "Canberra",
+        "Dhaka"
+      ],
+      "fun_fact": "Bangladesh has the world's largest river delta, the Sundarbans, which is home to the Bengal tiger.",
+      "correct_answer": "Dhaka"
+    },
+    {
+      "name": "Barbados",
+      "answers": [
+        "Mbabane (administrative), Lobamba (legislative)",
+        "Algiers",
+        "Dodoma (official), Dar es Salaam (economic)",
+        "Bridgetown"
+      ],
+      "fun_fact": "Barbados is the birthplace of rum, producing the first commercial rum in the early 1700s.",
+      "correct_answer": "Bridgetown"
+    },
+    {
+      "name": "Belarus",
+      "answers": [
+        "Libreville",
+        "Luxembourg City",
+        "Majuro",
+        "Minsk"
+      ],
+      "fun_fact": "Belarus is known as the 'lungs of Europe' because 40% of its territory is covered by forest.",
+      "correct_answer": "Minsk"
+    },
+    {
+      "name": "Belgium",
+      "answers": [
+        "Brussels",
+        "Amsterdam",
+        "Yamoussoukro (political), Abidjan (economic)",
+        "Maseru"
+      ],
+      "fun_fact": "Belgium produces over 800 different kinds of beer, and beer culture in Belgium is a UNESCO-recognized cultural heritage.",
+      "correct_answer": "Brussels"
+    },
+    {
+      "name": "Belize",
+      "answers": [
+        "Montevideo",
+        "Tokyo",
+        "Belmopan",
+        "Valletta"
+      ],
+      "fun_fact": "Belize has the second-largest barrier reef in the world, the Belize Barrier Reef.",
+      "correct_answer": "Belmopan"
+    },
+    {
+      "name": "Benin",
+      "answers": [
+        "Kampala",
+        "Bratislava",
+        "Porto-Novo",
+        "Ouagadougou"
+      ],
+      "fun_fact": "Benin is the birthplace of Vodun (voodoo) and celebrates National Voodoo Day annually on January 10th.",
+      "correct_answer": "Porto-Novo"
+    },
+    {
+      "name": "Bhutan",
+      "answers": [
+        "Chișinău",
+        "Athens",
+        "Thimphu",
+        "Gaborone"
+      ],
+      "fun_fact": "Bhutan measures its progress in terms of Gross National Happiness instead of Gross Domestic Product (GDP).",
+      "correct_answer": "Thimphu"
+    },
+    {
+      "name": "Bolivia",
+      "answers": [
+        "Wellington",
+        "Conakry",
+        "Libreville",
+        "Sucre (constitutional), La Paz (administrative)"
+      ],
+      "fun_fact": "Bolivia is home to the world's largest salt flat, Salar de Uyuni, which can turn into a giant mirror during the rainy season.",
+      "correct_answer": "Sucre (constitutional), La Paz (administrative)"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "answers": [
+        "Rabat",
+        "Yaren (de facto)",
+        "Bamako",
+        "Sarajevo"
+      ],
+      "fun_fact": "Bosnia and Herzegovina has a town called Jajce with a beautiful waterfall right in the center of the town.",
+      "correct_answer": "Sarajevo"
+    },
+    {
+      "name": "Botswana",
+      "answers": [
+        "Sana'a",
+        "Kigali",
+        "Gaborone",
+        "Tokyo"
+      ],
+      "fun_fact": "Botswana has the world's largest population of African elephants, most of which are found in the Chobe National Park.",
+      "correct_answer": "Gaborone"
+    },
+    {
+      "name": "Brazil",
+      "answers": [
+        "Suva",
+        "Port Vila",
+        "Brasilia",
+        "Maputo"
+      ],
+      "fun_fact": "Brazil is the largest producer of coffee in the world and has been for over 150 years.",
+      "correct_answer": "Brasilia"
+    },
+    {
+      "name": "Brunei",
+      "answers": [
+        "Vaduz",
+        "Kingstown",
+        "Washington, D.C.",
+        "Bandar Seri Begawan"
+      ],
+      "fun_fact": "Brunei is one of only two countries in the world where citizens pay no income tax.",
+      "correct_answer": "Bandar Seri Begawan"
+    },
+    {
+      "name": "Bulgaria",
+      "answers": [
+        "Sofia",
+        "Belgrade",
+        "Warsaw",
+        "Manama"
+      ],
+      "fun_fact": "Bulgaria is one of the oldest countries in Europe, having been established in 681 AD.",
+      "correct_answer": "Sofia"
+    },
+    {
+      "name": "Burkina Faso",
+      "answers": [
+        "Beijing",
+        "Vienna",
+        "Ouagadougou",
+        "Dushanbe"
+      ],
+      "fun_fact": "Burkina Faso is known for its unique music culture, particularly the balafon, a traditional wooden xylophone that originated here.",
+      "correct_answer": "Ouagadougou"
+    },
+    {
+      "name": "Burundi",
+      "answers": [
+        "Sofia",
+        "Baku",
+        "Bangkok",
+        "Gitega"
+      ],
+      "fun_fact": "Burundi is considered the 'Heart of Africa' because of its central location on the continent.",
+      "correct_answer": "Gitega"
+    },
+    {
+      "name": "Cambodia",
+      "answers": [
+        "Yaoundé",
+        "Gaborone",
+        "Phnom Penh",
+        "Khartoum"
+      ],
+      "fun_fact": "Cambodia is home to Angkor Wat, the world's largest religious monument.",
+      "correct_answer": "Phnom Penh"
+    },
+    {
+      "name": "Cameroon",
+      "answers": [
+        "Yaoundé",
+        "Dili",
+        "Belgrade",
+        "Wellington"
+      ],
+      "fun_fact": "Cameroon is often referred to as 'Africa in Miniature' because it has all the major climates and vegetation types of the continent.",
+      "correct_answer": "Yaoundé"
+    },
+    {
+      "name": "Canada",
+      "answers": [
+        "Ottawa",
+        "Pristina",
+        "Yamoussoukro (political), Abidjan (economic)",
+        "São Tomé"
+      ],
+      "fun_fact": "Canada has the longest coastline of any country in the world, stretching over 202,000 kilometers.",
+      "correct_answer": "Ottawa"
+    },
+    {
+      "name": "Cape Verde",
+      "answers": [
+        "Brazzaville",
+        "Praia",
+        "Gaborone",
+        "Vilnius"
+      ],
+      "fun_fact": "Cape Verde is famous for its morna music, a melancholic style that gained international fame through singer Cesária \u00c9vora.",
+      "correct_answer": "Praia"
+    },
+    {
+      "name": "Central African Republic",
+      "answers": [
+        "Bandar Seri Begawan",
+        "Bangui",
+        "Funafuti",
+        "Kigali"
+      ],
+      "fun_fact": "The Central African Republic is home to the Dzanga-Sangha National Park, where you can observe forest elephants and lowland gorillas.",
+      "correct_answer": "Bangui"
+    },
+    {
+      "name": "Chad",
+      "answers": [
+        "N'Djamena",
+        "Maseru",
+        "Ottawa",
+        "Helsinki"
+      ],
+      "fun_fact": "Lake Chad, from which the country gets its name, is one of Africa's largest lakes but has shrunk by 90% since the 1960s.",
+      "correct_answer": "N'Djamena"
+    },
+    {
+      "name": "Chile",
+      "answers": [
+        "Santiago",
+        "Castries",
+        "Victoria",
+        "Conakry"
+      ],
+      "fun_fact": "Chile has the world's driest desert, the Atacama Desert, where some areas have never recorded rainfall.",
+      "correct_answer": "Santiago"
+    },
+    {
+      "name": "China",
+      "answers": [
+        "Lilongwe",
+        "Berlin",
+        "Beijing",
+        "Thimphu"
+      ],
+      "fun_fact": "China is the only country with a man-made structure visible from space: the Great Wall of China.",
+      "correct_answer": "Beijing"
+    },
+    {
+      "name": "Colombia",
+      "answers": [
+        "Bogotá",
+        "Bucharest",
+        "Accra",
+        "Kuwait City"
+      ],
+      "fun_fact": "Colombia is the second most biodiverse country in the world, after Brazil.",
+      "correct_answer": "Bogotá"
+    },
+    {
+      "name": "Comoros",
+      "answers": [
+        "Suva",
+        "Astana (Nur-Sultan)",
+        "Riga",
+        "Moroni"
+      ],
+      "fun_fact": "Comoros is known as the 'Perfume Islands' due to its large production of ylang-ylang, a key ingredient in perfumes.",
+      "correct_answer": "Moroni"
+    },
+    {
+      "name": "Congo (Democratic Republic of)",
+      "answers": [
+        "Brussels",
+        "Kingston",
+        "Basseterre",
+        "Kinshasa"
+      ],
+      "fun_fact": "The Congo River, the second-largest river in the world by volume, flows through the Democratic Republic of Congo.",
+      "correct_answer": "Kinshasa"
+    },
+    {
+      "name": "Congo (Republic of)",
+      "answers": [
+        "San José",
+        "Prague",
+        "Brazzaville",
+        "Palikir"
+      ],
+      "fun_fact": "The Republic of Congo is home to Odzala-Kokoua National Park, one of the oldest national parks in Africa, known for its dense rainforest.",
+      "correct_answer": "Brazzaville"
+    },
+    {
+      "name": "Costa Rica",
+      "answers": [
+        "San José",
+        "Mogadishu",
+        "Maseru",
+        "Apia"
+      ],
+      "fun_fact": "Costa Rica has no standing army, having abolished it in 1949, and invests heavily in education and healthcare instead.",
+      "correct_answer": "San José"
+    },
+    {
+      "name": "Croatia",
+      "answers": [
+        "Zagreb",
+        "Stockholm",
+        "Chișinău",
+        "Baku"
+      ],
+      "fun_fact": "Croatia has more than 1,000 islands, but only about 50 are inhabited.",
+      "correct_answer": "Zagreb"
+    },
+    {
+      "name": "Cuba",
+      "answers": [
+        "Pyongyang",
+        "Moroni",
+        "Managua",
+        "Havana"
+      ],
+      "fun_fact": "Cuba is home to the world's smallest bird, the bee hummingbird, which weighs less than 2 grams.",
+      "correct_answer": "Havana"
+    },
+    {
+      "name": "Cyprus",
+      "answers": [
+        "Nicosia",
+        "San José",
+        "Yaoundé",
+        "Manila"
+      ],
+      "fun_fact": "Cyprus is the legendary birthplace of Aphrodite, the Greek goddess of love and beauty.",
+      "correct_answer": "Nicosia"
+    },
+    {
+      "name": "Czech Republic (Czechia)",
+      "answers": [
+        "Prague",
+        "Tegucigalpa",
+        "Tashkent",
+        "Yerevan"
+      ],
+      "fun_fact": "Czechia is the world's largest consumer of beer per capita.",
+      "correct_answer": "Prague"
+    },
+    {
+      "name": "Denmark",
+      "answers": [
+        "Ngerulmud",
+        "Copenhagen",
+        "Bishkek",
+        "Victoria"
+      ],
+      "fun_fact": "Denmark is home to Tivoli Gardens, one of the world's oldest amusement parks, which inspired Walt Disney to create Disneyland.",
+      "correct_answer": "Copenhagen"
+    },
+    {
+      "name": "Djibouti",
+      "answers": [
+        "Vaduz",
+        "Djibouti (City)",
+        "Basseterre",
+        "Kathmandu"
+      ],
+      "fun_fact": "Djibouti is home to Lake Assal, one of the saltiest bodies of water in the world, even saltier than the Dead Sea.",
+      "correct_answer": "Djibouti (City)"
+    },
+    {
+      "name": "Dominica",
+      "answers": [
+        "Prague",
+        "Roseau",
+        "Managua",
+        "Chișinău"
+      ],
+      "fun_fact": "Dominica is known as the 'Nature Island of the Caribbean' because of its lush rainforests, rivers, and volcanic hot springs.",
+      "correct_answer": "Roseau"
+    },
+    {
+      "name": "Dominican Republic",
+      "answers": [
+        "Khartoum",
+        "Skopje",
+        "Bern",
+        "Santo Domingo"
+      ],
+      "fun_fact": "The Dominican Republic is where Christopher Columbus landed in 1492 during his first voyage to the Americas.",
+      "correct_answer": "Santo Domingo"
+    },
+    {
+      "name": "Ecuador",
+      "answers": [
+        "Amsterdam",
+        "Singapore",
+        "Quito",
+        "Dodoma (official), Dar es Salaam (economic)"
+      ],
+      "fun_fact": "Ecuador is the closest country to space due to its location along the equatorial bulge.",
+      "correct_answer": "Quito"
+    },
+    {
+      "name": "Egypt",
+      "answers": [
+        "Cairo",
+        "Brazzaville",
+        "Yaren (de facto)",
+        "Bandar Seri Begawan"
+      ],
+      "fun_fact": "Egypt has one of the longest histories of any country, with ancient civilizations dating back to around 3100 BC.",
+      "correct_answer": "Cairo"
+    },
+    {
+      "name": "El Salvador",
+      "answers": [
+        "Zagreb",
+        "Tripoli",
+        "San Salvador",
+        "Damascus"
+      ],
+      "fun_fact": "El Salvador is the only country in Central America without a Caribbean coastline.",
+      "correct_answer": "San Salvador"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "answers": [
+        "London",
+        "Jerusalem",
+        "Riga",
+        "Malabo (current), Oyala (planned)"
+      ],
+      "fun_fact": "Equatorial Guinea is the only country in Africa where Spanish is an official language.",
+      "correct_answer": "Malabo (current), Oyala (planned)"
+    },
+    {
+      "name": "Estonia",
+      "answers": [
+        "Doha",
+        "Bandar Seri Begawan",
+        "Tallinn",
+        "Singapore"
+      ],
+      "fun_fact": "Estonia was the first country in the world to adopt online voting in a national election in 2005.",
+      "correct_answer": "Tallinn"
+    },
+    {
+      "name": "Eswatini (Swaziland)",
+      "answers": [
+        "Conakry",
+        "Lima",
+        "Mbabane (administrative), Lobamba (legislative)",
+        "Dakar"
+      ],
+      "fun_fact": "Eswatini has the oldest monarchic tradition in Africa and celebrates its traditional Reed Dance festival annually.",
+      "correct_answer": "Mbabane (administrative), Lobamba (legislative)"
+    },
+    {
+      "name": "Ethiopia",
+      "answers": [
+        "Addis Ababa",
+        "Maputo",
+        "Jakarta",
+        "Chișinău"
+      ],
+      "fun_fact": "Ethiopia is the only African country never to be colonized, maintaining its independence during the Scramble for Africa.",
+      "correct_answer": "Addis Ababa"
+    },
+    {
+      "name": "Fiji",
+      "answers": [
+        "Suva",
+        "Amsterdam",
+        "Vatican City",
+        "Baku"
+      ],
+      "fun_fact": "Fiji has three official languages: English, Fijian, and Fiji Hindi.",
+      "correct_answer": "Suva"
+    },
+    {
+      "name": "Finland",
+      "answers": [
+        "Yamoussoukro (political), Abidjan (economic)",
+        "Tehran",
+        "Panama City",
+        "Helsinki"
+      ],
+      "fun_fact": "Finland is often called the 'Land of a Thousand Lakes,' but it actually has over 180,000 lakes.",
+      "correct_answer": "Helsinki"
+    },
+    {
+      "name": "France",
+      "answers": [
+        "Kuwait City",
+        "Tokyo",
+        "Thimphu",
+        "Paris"
+      ],
+      "fun_fact": "France is the most visited country in the world, attracting around 90 million tourists annually.",
+      "correct_answer": "Paris"
+    },
+    {
+      "name": "Gabon",
+      "answers": [
+        "Kathmandu",
+        "San Marino",
+        "Libreville",
+        "Sri Jayawardenepura Kotte (official), Colombo (commercial)"
+      ],
+      "fun_fact": "Gabon has 13 national parks, covering nearly 11% of its land area, making it one of Africa's leaders in wildlife conservation.",
+      "correct_answer": "Libreville"
+    },
+    {
+      "name": "Gambia",
+      "answers": [
+        "Rome",
+        "Banjul",
+        "Mexico City",
+        "Ulaanbaatar"
+      ],
+      "fun_fact": "The Gambia is the smallest country in mainland Africa, following the Gambia River like a narrow strip.",
+      "correct_answer": "Banjul"
+    },
+    {
+      "name": "Georgia",
+      "answers": [
+        "Hanoi",
+        "Skopje",
+        "Malé",
+        "Tbilisi"
+      ],
+      "fun_fact": "Georgia is home to one of the world's oldest known settlements, Uplistsikhe, a rock-hewn town dating back to the Early Iron Age.",
+      "correct_answer": "Tbilisi"
+    },
+    {
+      "name": "Germany",
+      "answers": [
+        "Berlin",
+        "Managua",
+        "Montevideo",
+        "Bangkok"
+      ],
+      "fun_fact": "Germany is known for its Autobahn, where certain stretches have no speed limit.",
+      "correct_answer": "Berlin"
+    },
+    {
+      "name": "Ghana",
+      "answers": [
+        "Tashkent",
+        "Accra",
+        "Baku",
+        "Andorra la Vella"
+      ],
+      "fun_fact": "Ghana was the first African country to gain independence from colonial rule in 1957.",
+      "correct_answer": "Accra"
+    },
+    {
+      "name": "Greece",
+      "answers": [
+        "Reykjavik",
+        "Athens",
+        "Basseterre",
+        "Chișinău"
+      ],
+      "fun_fact": "Greece has around 6,000 islands, though only 227 are inhabited.",
+      "correct_answer": "Athens"
+    },
+    {
+      "name": "Grenada",
+      "answers": [
+        "St. George's",
+        "Jakarta",
+        "Tunis",
+        "Berlin"
+      ],
+      "fun_fact": "Grenada is nicknamed the 'Island of Spice' because it is one of the largest exporters of nutmeg and mace.",
+      "correct_answer": "St. George's"
+    },
+    {
+      "name": "Guatemala",
+      "answers": [
+        "Guatemala City",
+        "Paris",
+        "Monaco",
+        "Bucharest"
+      ],
+      "fun_fact": "Guatemala is home to the ancient Mayan city of Tikal, a UNESCO World Heritage site.",
+      "correct_answer": "Guatemala City"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "answers": [
+        "Bissau",
+        "Banjul",
+        "Belgrade",
+        "Bandar Seri Begawan"
+      ],
+      "fun_fact": "Guinea-Bissau's Bijagós Archipelago is a UNESCO Biosphere Reserve known for its biodiversity and traditional matriarchal societies.",
+      "correct_answer": "Bissau"
+    },
+    {
+      "name": "Guinea",
+      "answers": [
+        "Conakry",
+        "Malabo (current), Oyala (planned)",
+        "Monrovia",
+        "Belgrade"
+      ],
+      "fun_fact": "Guinea is home to Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site with unique flora and fauna.",
+      "correct_answer": "Conakry"
+    },
+    {
+      "name": "Guyana",
+      "answers": [
+        "Mbabane (administrative), Lobamba (legislative)",
+        "Tehran",
+        "Georgetown",
+        "Tokyo"
+      ],
+      "fun_fact": "Guyana is home to Kaieteur Falls, one of the world's most powerful waterfalls.",
+      "correct_answer": "Georgetown"
+    },
+    {
+      "name": "Haiti",
+      "answers": [
+        "Hanoi",
+        "Sarajevo",
+        "Port-au-Prince",
+        "Amman"
+      ],
+      "fun_fact": "Haiti was the first independent nation in Latin America and the Caribbean and the first black-led republic in the world.",
+      "correct_answer": "Port-au-Prince"
+    },
+    {
+      "name": "Honduras",
+      "answers": [
+        "Kabul",
+        "Windhoek",
+        "Tegucigalpa",
+        "Suva"
+      ],
+      "fun_fact": "Honduras is known as the 'banana republic' because of its historical dependence on banana exports.",
+      "correct_answer": "Tegucigalpa"
+    },
+    {
+      "name": "Hungary",
+      "answers": [
+        "Abu Dhabi",
+        "Seoul",
+        "Budapest",
+        "Juba"
+      ],
+      "fun_fact": "Hungary is home to the largest thermal water cave system in the world and boasts numerous thermal baths.",
+      "correct_answer": "Budapest"
+    },
+    {
+      "name": "Iceland",
+      "answers": [
+        "Sarajevo",
+        "Podgorica",
+        "Reykjavik",
+        "Riga"
+      ],
+      "fun_fact": "Iceland has no mosquitoes, thanks to its cold climate and volcanic environment.",
+      "correct_answer": "Reykjavik"
+    },
+    {
+      "name": "India",
+      "answers": [
+        "Riga",
+        "New Delhi",
+        "Malabo (current), Oyala (planned)",
+        "Antananarivo"
+      ],
+      "fun_fact": "India has the world's largest postal network, with over 1.5 lakh (150,000) post offices.",
+      "correct_answer": "New Delhi"
+    },
+    {
+      "name": "Indonesia",
+      "answers": [
+        "Damascus",
+        "Windhoek",
+        "Belgrade",
+        "Jakarta"
+      ],
+      "fun_fact": "Indonesia is made up of over 17,000 islands, the most of any country in the world.",
+      "correct_answer": "Jakarta"
+    },
+    {
+      "name": "Iran",
+      "answers": [
+        "Mbabane (administrative), Lobamba (legislative)",
+        "Abuja",
+        "Hanoi",
+        "Tehran"
+      ],
+      "fun_fact": "Iran is home to one of the world's oldest continuous civilizations, dating back to around 4000 BC.",
+      "correct_answer": "Tehran"
+    },
+    {
+      "name": "Iraq",
+      "answers": [
+        "Algiers",
+        "Baghdad",
+        "Bridgetown",
+        "Honiara"
+      ],
+      "fun_fact": "Iraq is the site of ancient Mesopotamia, often called the 'Cradle of Civilization.'",
+      "correct_answer": "Baghdad"
+    },
+    {
+      "name": "Ireland",
+      "answers": [
+        "Malé",
+        "Dublin",
+        "Maputo",
+        "Nicosia"
+      ],
+      "fun_fact": "Ireland has over 30,000 castles and castle ruins scattered across the country.",
+      "correct_answer": "Dublin"
+    },
+    {
+      "name": "Italy",
+      "answers": [
+        "Jakarta",
+        "Rome",
+        "Islamabad",
+        "Ljubljana"
+      ],
+      "fun_fact": "Italy is home to the Vatican City, the smallest country in the world.",
+      "correct_answer": "Rome"
+    },
+    {
+      "name": "Ivory Coast (Côte d'Ivoire)",
+      "answers": [
+        "Andorra la Vella",
+        "Moroni",
+        "Port Moresby",
+        "Yamoussoukro (political), Abidjan (economic)"
+      ],
+      "fun_fact": "Ivory Coast is the world's largest producer of cocoa, making up about 40% of the global supply.",
+      "correct_answer": "Yamoussoukro (political), Abidjan (economic)"
+    },
+    {
+      "name": "Jamaica",
+      "answers": [
+        "Nuku'alofa",
+        "Kingston",
+        "Kuala Lumpur (official), Putrajaya (administrative)",
+        "Georgetown"
+      ],
+      "fun_fact": "Jamaica was the first Caribbean nation to gain independence in 1962.",
+      "correct_answer": "Kingston"
+    },
+    {
+      "name": "Japan",
+      "answers": [
+        "Kabul",
+        "Tokyo",
+        "Belmopan",
+        "Yamoussoukro (political), Abidjan (economic)"
+      ],
+      "fun_fact": "Japan has more than 5 million vending machines, selling everything from food to umbrellas.",
+      "correct_answer": "Tokyo"
+    },
+    {
+      "name": "Jordan",
+      "answers": [
+        "Brazzaville",
+        "Khartoum",
+        "San Marino",
+        "Amman"
+      ],
+      "fun_fact": "Jordan is home to Petra, one of the New Seven Wonders of the World, often called the 'Rose City.'",
+      "correct_answer": "Amman"
+    },
+    {
+      "name": "Kazakhstan",
+      "answers": [
+        "Guatemala City",
+        "Monrovia",
+        "Astana (Nur-Sultan)",
+        "Bissau"
+      ],
+      "fun_fact": "Kazakhstan is the world's largest landlocked country and was home to the first artificial satellite, Sputnik, launched by the Soviet Union.",
+      "correct_answer": "Astana (Nur-Sultan)"
+    },
+    {
+      "name": "Kenya",
+      "answers": [
+        "Kuwait City",
+        "Sarajevo",
+        "Nairobi",
+        "Monrovia"
+      ],
+      "fun_fact": "Kenya is famous for the Great Migration, where millions of wildebeest, zebras, and other animals move between the Serengeti and Maasai Mara.",
+      "correct_answer": "Nairobi"
+    },
+    {
+      "name": "Kiribati",
+      "answers": [
+        "Basseterre",
+        "South Tarawa",
+        "Harare",
+        "Montevideo"
+      ],
+      "fun_fact": "Kiribati is the only country in the world to fall in all four hemispheres (north, south, east, and west).",
+      "correct_answer": "South Tarawa"
+    },
+    {
+      "name": "Kosovo",
+      "answers": [
+        "Pristina",
+        "Washington, D.C.",
+        "Riga",
+        "Yamoussoukro (political), Abidjan (economic)"
+      ],
+      "fun_fact": "Kosovo is one of the youngest countries in the world, having declared independence in 2008.",
+      "correct_answer": "Pristina"
+    },
+    {
+      "name": "Kuwait",
+      "answers": [
+        "Bangui",
+        "Bern",
+        "Malabo (current), Oyala (planned)",
+        "Kuwait City"
+      ],
+      "fun_fact": "Kuwait has no natural rivers or lakes and depends entirely on desalination for its water supply.",
+      "correct_answer": "Kuwait City"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "answers": [
+        "Bishkek",
+        "Athens",
+        "Kingston",
+        "Kampala"
+      ],
+      "fun_fact": "Kyrgyzstan's flag is the only one in the world with a depiction of a traditional yurt.",
+      "correct_answer": "Bishkek"
+    },
+    {
+      "name": "Laos",
+      "answers": [
+        "Tashkent",
+        "Vientiane",
+        "Paris",
+        "Sri Jayawardenepura Kotte (official), Colombo (commercial)"
+      ],
+      "fun_fact": "Laos is the most heavily bombed country per capita in history, due to the Vietnam War.",
+      "correct_answer": "Vientiane"
+    },
+    {
+      "name": "Latvia",
+      "answers": [
+        "Riga",
+        "Kabul",
+        "Minsk",
+        "Skopje"
+      ],
+      "fun_fact": "Latvia has one of the fastest internet speeds in the world and one of the highest internet user rates in Europe.",
+      "correct_answer": "Riga"
+    },
+    {
+      "name": "Lebanon",
+      "answers": [
+        "Beirut",
+        "Zagreb",
+        "Ouagadougou",
+        "Pyongyang"
+      ],
+      "fun_fact": "Lebanon is home to the world's oldest continuously inhabited city, Byblos.",
+      "correct_answer": "Beirut"
+    },
+    {
+      "name": "Lesotho",
+      "answers": [
+        "Yaren (de facto)",
+        "Maseru",
+        "Harare",
+        "Addis Ababa"
+      ],
+      "fun_fact": "Lesotho is the only country in the world entirely above 1,000 meters (3,281 feet) in elevation.",
+      "correct_answer": "Maseru"
+    },
+    {
+      "name": "Liberia",
+      "answers": [
+        "Helsinki",
+        "Monrovia",
+        "Abuja",
+        "Valletta"
+      ],
+      "fun_fact": "Liberia was founded by freed American slaves and has Africa's first female president, Ellen Johnson Sirleaf.",
+      "correct_answer": "Monrovia"
+    },
+    {
+      "name": "Libya",
+      "answers": [
+        "St. George's",
+        "Bangui",
+        "Tripoli",
+        "Gitega"
+      ],
+      "fun_fact": "Libya's Great Man-Made River is the world's largest irrigation project, providing water from ancient underground aquifers.",
+      "correct_answer": "Tripoli"
+    },
+    {
+      "name": "Liechtenstein",
+      "answers": [
+        "Vaduz",
+        "Bamako",
+        "Bucharest",
+        "Nairobi"
+      ],
+      "fun_fact": "Liechtenstein is so small that you can walk across the entire country in just a few hours.",
+      "correct_answer": "Vaduz"
+    },
+    {
+      "name": "Lithuania",
+      "answers": [
+        "Vilnius",
+        "Tallinn",
+        "Kinshasa",
+        "Chișinău"
+      ],
+      "fun_fact": "Lithuania was the last country in Europe to convert to Christianity, in 1387.",
+      "correct_answer": "Vilnius"
+    },
+    {
+      "name": "Luxembourg",
+      "answers": [
+        "Rabat",
+        "Luxembourg City",
+        "Roseau",
+        "Islamabad"
+      ],
+      "fun_fact": "Luxembourg is the second richest country in the world per capita, after Qatar.",
+      "correct_answer": "Luxembourg City"
+    },
+    {
+      "name": "Madagascar",
+      "answers": [
+        "Antananarivo",
+        "Paramaribo",
+        "Ulaanbaatar",
+        "Nuku'alofa"
+      ],
+      "fun_fact": "Madagascar is home to 5% of all known animal and plant species, many of which are found nowhere else on Earth.",
+      "correct_answer": "Antananarivo"
+    },
+    {
+      "name": "Malawi",
+      "answers": [
+        "Gitega",
+        "Lilongwe",
+        "Bucharest",
+        "Quito"
+      ],
+      "fun_fact": "Lake Malawi has more species of fish than any other lake in the world, making it a biodiversity hotspot.",
+      "correct_answer": "Lilongwe"
+    },
+    {
+      "name": "Malaysia",
+      "answers": [
+        "Kuala Lumpur (official), Putrajaya (administrative)",
+        "Manila",
+        "Paramaribo",
+        "Malabo (current), Oyala (planned)"
+      ],
+      "fun_fact": "Malaysia has the world's tallest twin towers, the Petronas Towers.",
+      "correct_answer": "Kuala Lumpur (official), Putrajaya (administrative)"
+    },
+    {
+      "name": "Maldives",
+      "answers": [
+        "Malé",
+        "Berlin",
+        "Bucharest",
+        "Windhoek"
+      ],
+      "fun_fact": "The Maldives is the lowest and flattest country in the world, with an average ground level of just 1.5 meters (4.9 feet) above sea level.",
+      "correct_answer": "Malé"
+    },
+    {
+      "name": "Mali",
+      "answers": [
+        "Bamako",
+        "Maseru",
+        "Naypyidaw",
+        "Baku"
+      ],
+      "fun_fact": "Mali is home to the ancient city of Timbuktu, once a center of learning and trade during the Mali Empire.",
+      "correct_answer": "Bamako"
+    },
+    {
+      "name": "Malta",
+      "answers": [
+        "Bangui",
+        "Valletta",
+        "Bratislava",
+        "Baku"
+      ],
+      "fun_fact": "Malta has some of the oldest free-standing stone structures in the world, older than the Pyramids of Giza.",
+      "correct_answer": "Valletta"
+    },
+    {
+      "name": "Marshall Islands",
+      "answers": [
+        "Port Louis",
+        "Tallinn",
+        "Majuro",
+        "Manila"
+      ],
+      "fun_fact": "The Marshall Islands is home to Bikini Atoll, where nuclear testing gave rise to the term 'bikini.'",
+      "correct_answer": "Majuro"
+    },
+    {
+      "name": "Mauritania",
+      "answers": [
+        "Vilnius",
+        "Nouakchott",
+        "Washington, D.C.",
+        "Ashgabat"
+      ],
+      "fun_fact": "Mauritania is home to the Richat Structure, also known as the 'Eye of the Sahara,' a geological formation visible from space.",
+      "correct_answer": "Nouakchott"
+    },
+    {
+      "name": "Mauritius",
+      "answers": [
+        "Kingstown",
+        "Harare",
+        "New Delhi",
+        "Port Louis"
+      ],
+      "fun_fact": "Mauritius was once the only home of the dodo, a flightless bird that went extinct in the 1600s.",
+      "correct_answer": "Port Louis"
+    },
+    {
+      "name": "Mexico",
+      "answers": [
+        "Mexico City",
+        "Yerevan",
+        "Ashgabat",
+        "Vatican City"
+      ],
+      "fun_fact": "Mexico is home to Chichen Itza, one of the New Seven Wonders of the World.",
+      "correct_answer": "Mexico City"
+    },
+    {
+      "name": "Micronesia",
+      "answers": [
+        "Warsaw",
+        "Riga",
+        "Palikir",
+        "Andorra la Vella"
+      ],
+      "fun_fact": "Micronesia is famous for Nan Madol, an ancient city built on artificial islands.",
+      "correct_answer": "Palikir"
+    },
+    {
+      "name": "Moldova",
+      "answers": [
+        "Sucre (constitutional), La Paz (administrative)",
+        "Yamoussoukro (political), Abidjan (economic)",
+        "Chișinău",
+        "Hanoi"
+      ],
+      "fun_fact": "Moldova is home to the world's largest wine cellar by number of bottles, with over 2 million stored at Milestii Mici.",
+      "correct_answer": "Chișinău"
+    },
+    {
+      "name": "Monaco",
+      "answers": [
+        "Bucharest",
+        "Georgetown",
+        "Monaco",
+        "Astana (Nur-Sultan)"
+      ],
+      "fun_fact": "Monaco is the second smallest country in the world, after Vatican City, but has the highest population density.",
+      "correct_answer": "Monaco"
+    },
+    {
+      "name": "Mongolia",
+      "answers": [
+        "Beijing",
+        "Accra",
+        "Ashgabat",
+        "Ulaanbaatar"
+      ],
+      "fun_fact": "Mongolia has more horses than people and is famous for its nomadic lifestyle.",
+      "correct_answer": "Ulaanbaatar"
+    },
+    {
+      "name": "Montenegro",
+      "answers": [
+        "Thimphu",
+        "Conakry",
+        "Kingston",
+        "Podgorica"
+      ],
+      "fun_fact": "Montenegro's Bay of Kotor is often compared to a fjord but is actually a ria, a submerged river valley.",
+      "correct_answer": "Podgorica"
+    },
+    {
+      "name": "Morocco",
+      "answers": [
+        "Rabat",
+        "Ngerulmud",
+        "Abu Dhabi",
+        "Vaduz"
+      ],
+      "fun_fact": "Morocco is home to the world's oldest continuously operating university, the University of al-Qarawiyyin, founded in 859 AD.",
+      "correct_answer": "Rabat"
+    },
+    {
+      "name": "Mozambique",
+      "answers": [
+        "Maputo",
+        "Praia",
+        "Libreville",
+        "Asunción"
+      ],
+      "fun_fact": "Mozambique's coastline is famous for its stunning marine life, including whale sharks and manta rays.",
+      "correct_answer": "Maputo"
+    },
+    {
+      "name": "Myanmar (Burma)",
+      "answers": [
+        "St. George's",
+        "New Delhi",
+        "Caracas",
+        "Naypyidaw"
+      ],
+      "fun_fact": "Myanmar has the Shwedagon Pagoda, which is covered in gold and encrusted with over 4,500 diamonds.",
+      "correct_answer": "Naypyidaw"
+    },
+    {
+      "name": "Namibia",
+      "answers": [
+        "Ouagadougou",
+        "Sana'a",
+        "Windhoek",
+        "Bangui"
+      ],
+      "fun_fact": "Namibia's Namib Desert is considered the oldest desert in the world, dating back at least 55 million years.",
+      "correct_answer": "Windhoek"
+    },
+    {
+      "name": "Nauru",
+      "answers": [
+        "Stockholm",
+        "Manila",
+        "South Tarawa",
+        "Yaren (de facto)"
+      ],
+      "fun_fact": "Nauru is the world's smallest island country, covering just 21 square kilometers.",
+      "correct_answer": "Yaren (de facto)"
+    },
+    {
+      "name": "Nepal",
+      "answers": [
+        "Rome",
+        "Kathmandu",
+        "Bratislava",
+        "Montevideo"
+      ],
+      "fun_fact": "Nepal is home to Mount Everest, the world's tallest mountain, located in the Himalayas.",
+      "correct_answer": "Kathmandu"
+    },
+    {
+      "name": "Netherlands",
+      "answers": [
+        "Port-au-Prince",
+        "Tokyo",
+        "Amsterdam",
+        "Yaren (de facto)"
+      ],
+      "fun_fact": "The Netherlands is home to more bicycles than people, with over 23 million bikes for 17 million residents.",
+      "correct_answer": "Amsterdam"
+    },
+    {
+      "name": "New Zealand",
+      "answers": [
+        "Paris",
+        "Skopje",
+        "Kathmandu",
+        "Wellington"
+      ],
+      "fun_fact": "New Zealand was the first country in the world to grant women the right to vote in 1893.",
+      "correct_answer": "Wellington"
+    },
+    {
+      "name": "Nicaragua",
+      "answers": [
+        "Santo Domingo",
+        "Jakarta",
+        "Managua",
+        "Paris"
+      ],
+      "fun_fact": "Nicaragua has the largest freshwater lake in Central America, Lake Nicaragua, which is home to freshwater sharks.",
+      "correct_answer": "Managua"
+    },
+    {
+      "name": "Niger",
+      "answers": [
+        "Suva",
+        "Nassau",
+        "Sofia",
+        "Niamey"
+      ],
+      "fun_fact": "Niger is home to the Air and Ténéré Natural Reserves, the largest protected area in Africa.",
+      "correct_answer": "Niamey"
+    },
+    {
+      "name": "Nigeria",
+      "answers": [
+        "Abuja",
+        "Vatican City",
+        "Bratislava",
+        "Tegucigalpa"
+      ],
+      "fun_fact": "Nigeria is Africa's most populous country and is often called the 'Giant of Africa.'",
+      "correct_answer": "Abuja"
+    },
+    {
+      "name": "North Korea",
+      "answers": [
+        "Abu Dhabi",
+        "Abuja",
+        "Mbabane (administrative), Lobamba (legislative)",
+        "Pyongyang"
+      ],
+      "fun_fact": "North Korea has its own calendar, starting from the birth of its founder, Kim Il-sung, in 1912.",
+      "correct_answer": "Pyongyang"
+    },
+    {
+      "name": "North Macedonia",
+      "answers": [
+        "Skopje",
+        "Nuku'alofa",
+        "Gitega",
+        "Funafuti"
+      ],
+      "fun_fact": "North Macedonia is home to Lake Ohrid, one of Europe's oldest and deepest lakes.",
+      "correct_answer": "Skopje"
+    },
+    {
+      "name": "Norway",
+      "answers": [
+        "Tripoli",
+        "Muscat",
+        "Bandar Seri Begawan",
+        "Oslo"
+      ],
+      "fun_fact": "Norway is famous for its fjords and has one of the longest coastlines in the world.",
+      "correct_answer": "Oslo"
+    },
+    {
+      "name": "Oman",
+      "answers": [
+        "Asunción",
+        "Rome",
+        "Reykjavik",
+        "Muscat"
+      ],
+      "fun_fact": "Oman is famous for its frankincense, a resin used in perfumes and incense for thousands of years.",
+      "correct_answer": "Muscat"
+    },
+    {
+      "name": "Pakistan",
+      "answers": [
+        "Bamako",
+        "Luxembourg City",
+        "San Marino",
+        "Islamabad"
+      ],
+      "fun_fact": "Pakistan is home to the world's second-highest mountain, K2.",
+      "correct_answer": "Islamabad"
+    },
+    {
+      "name": "Palau",
+      "answers": [
+        "Dili",
+        "Ouagadougou",
+        "Ngerulmud",
+        "Kinshasa"
+      ],
+      "fun_fact": "Palau has one of the world's most pristine marine environments and created the world's first shark sanctuary in 2009.",
+      "correct_answer": "Ngerulmud"
+    },
+    {
+      "name": "Palestine",
+      "answers": [
+        "Monrovia",
+        "Jerusalem",
+        "Ankara",
+        "Beijing"
+      ],
+      "fun_fact": "Palestine is home to Bethlehem, traditionally regarded as the birthplace of Jesus Christ.",
+      "correct_answer": "Jerusalem"
+    },
+    {
+      "name": "Panama",
+      "answers": [
+        "Abuja",
+        "Freetown",
+        "Panama City",
+        "Accra"
+      ],
+      "fun_fact": "Panama is the only place in the world where you can see the sunrise over the Pacific Ocean and set over the Atlantic Ocean.",
+      "correct_answer": "Panama City"
+    },
+    {
+      "name": "Papua New Guinea",
+      "answers": [
+        "Port Moresby",
+        "Jerusalem",
+        "Santo Domingo",
+        "Yamoussoukro (political), Abidjan (economic)"
+      ],
+      "fun_fact": "Papua New Guinea has over 850 spoken languages, the most of any country in the world.",
+      "correct_answer": "Port Moresby"
+    },
+    {
+      "name": "Paraguay",
+      "answers": [
+        "Santo Domingo",
+        "Sri Jayawardenepura Kotte (official), Colombo (commercial)",
+        "Buenos Aires",
+        "Asunción"
+      ],
+      "fun_fact": "Paraguay has two official languages: Spanish and Guarani, an indigenous language.",
+      "correct_answer": "Asunción"
+    },
+    {
+      "name": "Peru",
+      "answers": [
+        "Brasília",
+        "Yamoussoukro (political), Abidjan (economic)",
+        "Caracas",
+        "Lima"
+      ],
+      "fun_fact": "Peru is home to Machu Picchu, a famous Incan citadel and UNESCO World Heritage site.",
+      "correct_answer": "Lima"
+    },
+    {
+      "name": "Philippines",
+      "answers": [
+        "Beirut",
+        "Manila",
+        "Kinshasa",
+        "Nouakchott"
+      ],
+      "fun_fact": "The Philippines is made up of over 7,600 islands, with only about 2,000 inhabited.",
+      "correct_answer": "Manila"
+    },
+    {
+      "name": "Poland",
+      "answers": [
+        "Warsaw",
+        "Belmopan",
+        "Astana (Nur-Sultan)",
+        "Naypyidaw"
+      ],
+      "fun_fact": "Poland has the world's largest castle, the Malbork Castle, which is a UNESCO World Heritage site.",
+      "correct_answer": "Warsaw"
+    },
+    {
+      "name": "Portugal",
+      "answers": [
+        "Athens",
+        "Lisbon",
+        "Buenos Aires",
+        "Vaduz"
+      ],
+      "fun_fact": "Portugal is the oldest country in Europe with its current borders, established in 1139.",
+      "correct_answer": "Lisbon"
+    },
+    {
+      "name": "Qatar",
+      "answers": [
+        "Hanoi",
+        "Doha",
+        "Port Moresby",
+        "Cairo"
+      ],
+      "fun_fact": "Qatar is the richest country in the world per capita, thanks to its vast natural gas reserves.",
+      "correct_answer": "Doha"
+    },
+    {
+      "name": "Romania",
+      "answers": [
+        "Brussels",
+        "Mogadishu",
+        "London",
+        "Bucharest"
+      ],
+      "fun_fact": "Romania is home to the world-famous Bran Castle, often associated with the Dracula legend.",
+      "correct_answer": "Bucharest"
+    },
+    {
+      "name": "Russia",
+      "answers": [
+        "Moscow",
+        "Bucharest",
+        "Port of Spain",
+        "Beijing"
+      ],
+      "fun_fact": "Russia is the largest country in the world, covering 11 time zones.",
+      "correct_answer": "Moscow"
+    },
+    {
+      "name": "Rwanda",
+      "answers": [
+        "Kigali",
+        "Libreville",
+        "Praia",
+        "Tokyo"
+      ],
+      "fun_fact": "Rwanda is known as the 'Land of a Thousand Hills' due to its mountainous terrain.",
+      "correct_answer": "Kigali"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "answers": [
+        "Gaborone",
+        "Basseterre",
+        "Santiago",
+        "Copenhagen"
+      ],
+      "fun_fact": "Saint Kitts and Nevis is the smallest country in the Western Hemisphere, both in size and population.",
+      "correct_answer": "Basseterre"
+    },
+    {
+      "name": "Saint Lucia",
+      "answers": [
+        "Belmopan",
+        "Rome",
+        "Luxembourg City",
+        "Castries"
+      ],
+      "fun_fact": "Saint Lucia is the only country in the world named after a woman, Saint Lucy of Syracuse.",
+      "correct_answer": "Castries"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "answers": [
+        "Conakry",
+        "Lilongwe",
+        "Bratislava",
+        "Kingstown"
+      ],
+      "fun_fact": "The movie Pirates of the Caribbean was filmed on several of Saint Vincent's islands.",
+      "correct_answer": "Kingstown"
+    },
+    {
+      "name": "Samoa",
+      "answers": [
+        "Beirut",
+        "Apia",
+        "Roseau",
+        "Luxembourg City"
+      ],
+      "fun_fact": "Samoa has a unique way of telling time, as it skipped December 30, 2011, when it moved across the International Date Line.",
+      "correct_answer": "Apia"
+    },
+    {
+      "name": "San Marino",
+      "answers": [
+        "Port of Spain",
+        "San Marino",
+        "Lima",
+        "Bamako"
+      ],
+      "fun_fact": "San Marino is the world's oldest republic, founded in 301 AD.",
+      "correct_answer": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia",
+      "answers": [
+        "Banjul",
+        "Madrid",
+        "Riyadh",
+        "Bissau"
+      ],
+      "fun_fact": "Saudi Arabia is home to the world's largest sand desert, the Rub' al Khali or Empty Quarter.",
+      "correct_answer": "Riyadh"
+    },
+    {
+      "name": "Senegal",
+      "answers": [
+        "Abuja",
+        "Dakar",
+        "Monaco",
+        "Tegucigalpa"
+      ],
+      "fun_fact": "Senegal's Lac Rose (Pink Lake) is a stunning pink-colored lake due to its high salt content and algae.",
+      "correct_answer": "Dakar"
+    },
+    {
+      "name": "Serbia",
+      "answers": [
+        "Harare",
+        "Monaco",
+        "Belgrade",
+        "Mogadishu"
+      ],
+      "fun_fact": "Serbia is home to the Devil's Town (Đavolja Varoš), a natural rock formation of strange, spire-like structures.",
+      "correct_answer": "Belgrade"
+    },
+    {
+      "name": "Seychelles",
+      "answers": [
+        "Algiers",
+        "Kuala Lumpur (official), Putrajaya (administrative)",
+        "Port Moresby",
+        "Victoria"
+      ],
+      "fun_fact": "The Seychelles is home to the Aldabra Atoll, the world's largest raised coral atoll and a UNESCO World Heritage site.",
+      "correct_answer": "Victoria"
+    },
+    {
+      "name": "Sierra Leone",
+      "answers": [
+        "Freetown",
+        "Sucre (constitutional), La Paz (administrative)",
+        "Kuala Lumpur (official), Putrajaya (administrative)",
+        "Kingstown"
+      ],
+      "fun_fact": "Sierra Leone's name means 'Lion Mountains' in Portuguese, inspired by the mountains near Freetown.",
+      "correct_answer": "Freetown"
+    },
+    {
+      "name": "Singapore",
+      "answers": [
+        "Singapore",
+        "Naypyidaw",
+        "Madrid",
+        "Gaborone"
+      ],
+      "fun_fact": "Singapore is one of only three city-states in the world, along with Monaco and Vatican City.",
+      "correct_answer": "Singapore"
+    },
+    {
+      "name": "Slovakia",
+      "answers": [
+        "Asunción",
+        "Luxembourg City",
+        "Bratislava",
+        "Panama City"
+      ],
+      "fun_fact": "Slovakia has over 6,000 caves, including the UNESCO-listed ice cave of Dobšinská ľadová jaskyňa.",
+      "correct_answer": "Bratislava"
+    },
+    {
+      "name": "Slovenia",
+      "answers": [
+        "Phnom Penh",
+        "Ljubljana",
+        "Porto-Novo",
+        "Kingston"
+      ],
+      "fun_fact": "Slovenia's Lake Bled features a picturesque island with a church, making it one of Europe's most photographed sites.",
+      "correct_answer": "Ljubljana"
+    },
+    {
+      "name": "Solomon Islands",
+      "answers": [
+        "Honiara",
+        "Nairobi",
+        "Belmopan",
+        "Manila"
+      ],
+      "fun_fact": "The Solomon Islands was the site of the famous World War II Battle of Guadalcanal.",
+      "correct_answer": "Honiara"
+    },
+    {
+      "name": "Somalia",
+      "answers": [
+        "Mogadishu",
+        "Jerusalem",
+        "Doha",
+        "Conakry"
+      ],
+      "fun_fact": "Somalia has the longest coastline on the mainland of Africa, stretching over 3,000 kilometers.",
+      "correct_answer": "Mogadishu"
+    },
+    {
+      "name": "South Africa",
+      "answers": [
+        "Abu Dhabi",
+        "Nassau",
+        "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+        "Brasília"
+      ],
+      "fun_fact": "South Africa has three capital cities: Pretoria (administrative), Bloemfontein (judicial), and Cape Town (legislative).",
+      "correct_answer": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
+    },
+    {
+      "name": "South Korea",
+      "answers": [
+        "Seoul",
+        "Port-au-Prince",
+        "Bamako",
+        "Andorra la Vella"
+      ],
+      "fun_fact": "South Korea has a tradition of creating 'unbreakable' wooden doors for hanok (traditional houses).",
+      "correct_answer": "Seoul"
+    },
+    {
+      "name": "South Sudan",
+      "answers": [
+        "Bandar Seri Begawan",
+        "Juba",
+        "Georgetown",
+        "Ottawa"
+      ],
+      "fun_fact": "South Sudan is the youngest country in the world, gaining independence from Sudan in 2011.",
+      "correct_answer": "Juba"
+    },
+    {
+      "name": "Spain",
+      "answers": [
+        "Madrid",
+        "Nuku'alofa",
+        "Kuwait City",
+        "Dili"
+      ],
+      "fun_fact": "Spain produces more olive oil than any other country, accounting for about 45% of the world's supply.",
+      "correct_answer": "Madrid"
+    },
+    {
+      "name": "Sri Lanka",
+      "answers": [
+        "Khartoum",
+        "Vaduz",
+        "Juba",
+        "Sri Jayawardenepura Kotte (official), Colombo (commercial)"
+      ],
+      "fun_fact": "Sri Lanka was once called 'Ceylon' and is famous for its tea, especially Ceylon tea.",
+      "correct_answer": "Sri Jayawardenepura Kotte (official), Colombo (commercial)"
+    },
+    {
+      "name": "Sudan",
+      "answers": [
+        "Khartoum",
+        "Pyongyang",
+        "San José",
+        "Kampala"
+      ],
+      "fun_fact": "Sudan has more ancient pyramids than Egypt, most of which are located in Mero\u00eb.",
+      "correct_answer": "Khartoum"
+    },
+    {
+      "name": "Suriname",
+      "answers": [
+        "Kingstown",
+        "Paramaribo",
+        "Djibouti (City)",
+        "Nicosia"
+      ],
+      "fun_fact": "Suriname is the smallest country in South America by area and population.",
+      "correct_answer": "Paramaribo"
+    },
+    {
+      "name": "Sweden",
+      "answers": [
+        "Stockholm",
+        "Gitega",
+        "Vilnius",
+        "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)"
+      ],
+      "fun_fact": "Sweden is the largest exporter of pop music per capita, with artists like ABBA and Avicii.",
+      "correct_answer": "Stockholm"
+    },
+    {
+      "name": "Switzerland",
+      "answers": [
+        "Bern",
+        "Algiers",
+        "Suva",
+        "Kingstown"
+      ],
+      "fun_fact": "Switzerland is known for its neutrality, but it also has one of the most heavily armed militaries per capita.",
+      "correct_answer": "Bern"
+    },
+    {
+      "name": "Syria",
+      "answers": [
+        "Yaren (de facto)",
+        "Hanoi",
+        "Damascus",
+        "Port Vila"
+      ],
+      "fun_fact": "Syria is home to Damascus, one of the world's oldest continuously inhabited cities.",
+      "correct_answer": "Damascus"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "answers": [
+        "Roseau",
+        "São Tomé",
+        "Port Vila",
+        "Brussels"
+      ],
+      "fun_fact": "São Tomé and Príncipe is one of the world's leading producers of organic cocoa.",
+      "correct_answer": "São Tomé"
+    },
+    {
+      "name": "Tajikistan",
+      "answers": [
+        "Dushanbe",
+        "New Delhi",
+        "Lomé",
+        "Antananarivo"
+      ],
+      "fun_fact": "Tajikistan is more than 90% mountainous, with the Pamir Mountains often called the 'Roof of the World.'",
+      "correct_answer": "Dushanbe"
+    },
+    {
+      "name": "Tanzania",
+      "answers": [
+        "Monaco",
+        "Maseru",
+        "Dodoma (official), Dar es Salaam (economic)",
+        "Rabat"
+      ],
+      "fun_fact": "Tanzania is home to Mount Kilimanjaro, the highest peak in Africa.",
+      "correct_answer": "Dodoma (official), Dar es Salaam (economic)"
+    },
+    {
+      "name": "Thailand",
+      "answers": [
+        "Ankara",
+        "Bangkok",
+        "Algiers",
+        "Stockholm"
+      ],
+      "fun_fact": "Thailand is the only Southeast Asian country never to be colonized by a European power.",
+      "correct_answer": "Bangkok"
+    },
+    {
+      "name": "Timor-Leste (East Timor)",
+      "answers": [
+        "Zagreb",
+        "N'Djamena",
+        "Dili",
+        "Dodoma (official), Dar es Salaam (economic)"
+      ],
+      "fun_fact": "Timor-Leste is one of the newest countries in the world, gaining independence in 2002.",
+      "correct_answer": "Dili"
+    },
+    {
+      "name": "Togo",
+      "answers": [
+        "Lomé",
+        "Kathmandu",
+        "Moroni",
+        "Suva"
+      ],
+      "fun_fact": "Togo is known for its traditional voodoo practices, which are still widely observed.",
+      "correct_answer": "Lomé"
+    },
+    {
+      "name": "Tonga",
+      "answers": [
+        "Luxembourg City",
+        "Antananarivo",
+        "Nuku'alofa",
+        "Vilnius"
+      ],
+      "fun_fact": "Tonga is the only Pacific Island nation that was never colonized by a foreign power.",
+      "correct_answer": "Nuku'alofa"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "answers": [
+        "Phnom Penh",
+        "Helsinki",
+        "Harare",
+        "Port of Spain"
+      ],
+      "fun_fact": "Trinidad and Tobago is the birthplace of the steelpan drum, the only acoustic instrument invented in the 20th century.",
+      "correct_answer": "Port of Spain"
+    },
+    {
+      "name": "Tunisia",
+      "answers": [
+        "Banjul",
+        "Quito",
+        "Tunis",
+        "Sofia"
+      ],
+      "fun_fact": "Tunisia was the filming location for parts of the original Star Wars movies, including Luke Skywalker's home.",
+      "correct_answer": "Tunis"
+    },
+    {
+      "name": "Turkey",
+      "answers": [
+        "Ankara",
+        "Yaren (de facto)",
+        "Lilongwe",
+        "Bangui"
+      ],
+      "fun_fact": "Turkey is home to two of the Seven Wonders of the Ancient World: the Temple of Artemis and the Mausoleum at Halicarnassus.",
+      "correct_answer": "Ankara"
+    },
+    {
+      "name": "Turkmenistan",
+      "answers": [
+        "Yaren (de facto)",
+        "Helsinki",
+        "Ashgabat",
+        "Bangui"
+      ],
+      "fun_fact": "Turkmenistan has the 'Door to Hell', a natural gas crater that has been burning since 1971.",
+      "correct_answer": "Ashgabat"
+    },
+    {
+      "name": "Tuvalu",
+      "answers": [
+        "Praia",
+        "Funafuti",
+        "Sucre (constitutional), La Paz (administrative)",
+        "Nassau"
+      ],
+      "fun_fact": "Tuvalu is one of the smallest countries in the world, both in population and land area, and has a .tv domain highly sought for online streaming.",
+      "correct_answer": "Funafuti"
+    },
+    {
+      "name": "Uganda",
+      "answers": [
+        "Kampala",
+        "San Salvador",
+        "Paramaribo",
+        "Canberra"
+      ],
+      "fun_fact": "Uganda is home to half of the world's remaining mountain gorillas.",
+      "correct_answer": "Kampala"
+    },
+    {
+      "name": "Ukraine",
+      "answers": [
+        "Port Louis",
+        "Tirana",
+        "Kyiv",
+        "Yamoussoukro (political), Abidjan (economic)"
+      ],
+      "fun_fact": "Ukraine is home to the world's largest plane, the Antonov An-225 Mriya. It was destroyed by a Russian airstrike in 2022.",
+      "correct_answer": "Kyiv"
+    },
+    {
+      "name": "United Arab Emirates (UAE)",
+      "answers": [
+        "Tashkent",
+        "Amsterdam",
+        "Madrid",
+        "Abu Dhabi"
+      ],
+      "fun_fact": "The UAE is home to the tallest building in the world, the Burj Khalifa, standing at 828 meters (2,717 feet).",
+      "correct_answer": "Abu Dhabi"
+    },
+    {
+      "name": "United Kingdom (UK)",
+      "answers": [
+        "Washington, D.C.",
+        "Libreville",
+        "São Tomé",
+        "London"
+      ],
+      "fun_fact": "The UK has had the world's oldest monarch in Queen Elizabeth II, who reigned for over 70 years until her passing in 2022.",
+      "correct_answer": "London"
+    },
+    {
+      "name": "United States",
+      "answers": [
+        "Monaco",
+        "Lisbon",
+        "Washington, D.C.",
+        "Bissau"
+      ],
+      "fun_fact": "The United States is home to the Grand Canyon, which is about 6 million years old.",
+      "correct_answer": "Washington, D.C."
+    },
+    {
+      "name": "Uruguay",
+      "answers": [
+        "Funafuti",
+        "Dublin",
+        "Kyiv",
+        "Montevideo"
+      ],
+      "fun_fact": "Uruguay was the first country to legalize marijuana nationwide in 2013.",
+      "correct_answer": "Montevideo"
+    },
+    {
+      "name": "Uzbekistan",
+      "answers": [
+        "San José",
+        "Tashkent",
+        "Lisbon",
+        "Andorra la Vella"
+      ],
+      "fun_fact": "Uzbekistan is one of only two doubly landlocked countries in the world (the other being Liechtenstein).",
+      "correct_answer": "Tashkent"
+    },
+    {
+      "name": "Vanuatu",
+      "answers": [
+        "Yerevan",
+        "Port Vila",
+        "Luanda",
+        "N'Djamena"
+      ],
+      "fun_fact": "Vanuatu is one of the most linguistically diverse countries, with over 100 native languages spoken.",
+      "correct_answer": "Port Vila"
+    },
+    {
+      "name": "Vatican City (Holy See)",
+      "answers": [
+        "Accra",
+        "Belgrade",
+        "Vatican City",
+        "Yaoundé"
+      ],
+      "fun_fact": "Vatican City has the world's smallest population, with fewer than 1,000 residents.",
+      "correct_answer": "Vatican City"
+    },
+    {
+      "name": "Venezuela",
+      "answers": [
+        "Sarajevo",
+        "Muscat",
+        "Caracas",
+        "Niamey"
+      ],
+      "fun_fact": "Venezuela is home to Angel Falls, the world's highest uninterrupted waterfall.",
+      "correct_answer": "Caracas"
+    },
+    {
+      "name": "Vietnam",
+      "answers": [
+        "Hanoi",
+        "Abu Dhabi",
+        "Singapore",
+        "Manama"
+      ],
+      "fun_fact": "Vietnam is the world's largest exporter of cashew nuts and black pepper.",
+      "correct_answer": "Hanoi"
+    },
+    {
+      "name": "Yemen",
+      "answers": [
+        "Havana",
+        "Sana'a",
+        "Pyongyang",
+        "Mbabane (administrative), Lobamba (legislative)"
+      ],
+      "fun_fact": "Yemen is home to the ancient mud-brick skyscrapers of Shibam, often called the 'Manhattan of the Desert.'",
+      "correct_answer": "Sana'a"
+    },
+    {
+      "name": "Zambia",
+      "answers": [
+        "Santo Domingo",
+        "Palikir",
+        "Lusaka",
+        "Abu Dhabi"
+      ],
+      "fun_fact": "Zambia's Victoria Falls, shared with Zimbabwe, is one of the Seven Natural Wonders of the World.",
+      "correct_answer": "Lusaka"
+    },
+    {
+      "name": "Zimbabwe",
+      "answers": [
+        "Harare",
+        "Mexico City",
+        "Kinshasa",
+        "Palikir"
+      ],
+      "fun_fact": "Zimbabwe is famous for the Great Zimbabwe Ruins, an ancient city and the largest stone structure south of the Sahara.",
+      "correct_answer": "Harare"
+    }
+  ]
+}

@@ -11,6 +11,16 @@
         body {
             background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
             font-size: 1.2rem;
+            font-family: 'Courier New', Courier, monospace;
+            background: hsla(358, 100%, 80%, 1);
+
+            background: linear-gradient(180deg, hsla(358, 100%, 80%, 1) 0%, hsla(310, 65%, 85%, 1) 100%, hsla(7, 89%, 69%, 1) 100%);
+
+            background: -moz-linear-gradient(180deg, hsla(358, 100%, 80%, 1) 0%, hsla(310, 65%, 85%, 1) 100%, hsla(7, 89%, 69%, 1) 100%);
+
+            background: -webkit-linear-gradient(180deg, hsla(358, 100%, 80%, 1) 0%, hsla(310, 65%, 85%, 1) 100%, hsla(7, 89%, 69%, 1) 100%);
+
+            filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF9A9E", endColorstr="#F2C1EA", GradientType=1 );
         }
 
         .container {
@@ -39,10 +49,14 @@
         #fun-fact {
             color: #555;
         }
+
+        #my-title {
+            display: none;
+        }
     </style>
 </head>
 <body>
-    <div class="container text-center">
+    <div id="my-title" class="container text-center">
         <h1 class="mb-4">Capitals of The World</h1>
         <div id="form-container"></div>
     </div>

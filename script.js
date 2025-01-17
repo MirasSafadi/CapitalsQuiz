@@ -5,7 +5,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Lock screen with a passcode prompt
     const passcodePrompt = document.createElement('div');
     passcodePrompt.classList.add('d-flex', 'justify-content-center', 'align-items-center', 'vh-100');
-    passcodePrompt.style.background = 'linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%)';
+    // passcodePrompt.style.background = 'linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%)';
+    passcodePrompt.style.display = 'flex';
+    passcodePrompt.style.justifyContent = 'center';
+    passcodePrompt.style.alignItems = 'center';
+    passcodePrompt.style.height = '100vh';
+
     passcodePrompt.innerHTML = `
         <div class="container text-center bg-white p-4 rounded shadow">
             <h2 class="mb-3">Enter Passcode</h2>
@@ -36,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (enteredPasscodeHash === correctPasscodeHash) {
             passcodePrompt.remove();
+            document.getElementById("my-title").style.display = "block";
             initializeQuiz();
         } else {
             alert('Incorrect passcode. Please try again.');
